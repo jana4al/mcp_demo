@@ -1,12 +1,10 @@
-# Angular Practise Project
+# MCP Server
 
-This project is a demonstration of Angular development practices and showcases the integration of GitHub's Model Context Protocol (MCP) server. The primary goal of this project is to explore how MCP can be utilized to perform multiple actions using an intelligent agent.
+This project is a demonstration of MCP and showcases the integration of GitHub's Model Context Protocol (MCP) server. The primary goal of this project is to explore how MCP can be utilized to perform multiple actions using an intelligent agent.
 
 ## Features
 
-- **Angular Framework**: Built using Angular to demonstrate component-based architecture.
 - **GitHub MCP Integration**: Showcases how to use the GitHub MCP server for automating tasks and enhancing productivity.
-- **Component Structure**: Includes multiple components such as `home`, `user-create`, and `user-profile` to illustrate modular design.
 
 ## GitHub MCP Server
 
